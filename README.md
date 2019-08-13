@@ -1,12 +1,16 @@
 ## Java笔记
 
 
-### my-annotations
+### [my-annotations](https://mp.weixin.qq.com/s?__biz=MzAxMzM0NDA0Nw==&mid=2451677135&idx=1&sn=10637f69a05f9e24d0cdf77934565a7b&chksm=8c71338fbb06ba99535da3bf99c0e6b3038cc2bf3841c7b09e8b84f6a678d844c21dba15c436&token=1605096089&lang=zh_CN#rd)
 SpringAOP自定义注解实现日志打印
 
 
-### redblacktree
-【[Java实现红黑树](https://mp.weixin.qq.com/s/Ou7rppnzjwMlPTsqEOUo7Q)】
+### [redblacktree](https://mp.weixin.qq.com/s/Ou7rppnzjwMlPTsqEOUo7Q)
+Java实现红黑树
+
+
+### [my-globalexception](https://mp.weixin.qq.com/s?__biz=MzAxMzM0NDA0Nw==&mid=2451677140&idx=1&sn=e945fafd3ecbc5f66e214ccb674d71d8&chksm=8c713394bb06ba823df45fe28f3b37e2469f86fddeac24c5052d3427e16c939ff519817e3e4f&token=1605096089&lang=zh_CN#rd)
+SpringBoot全局异常处理
 
 
 ## 最后
